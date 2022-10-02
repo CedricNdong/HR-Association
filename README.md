@@ -1,2 +1,2 @@
 # webapp
-connecting Spring Boot to a provides API with Spring Boot 
+connecting a Backend to a provides API with Spring Boot 
